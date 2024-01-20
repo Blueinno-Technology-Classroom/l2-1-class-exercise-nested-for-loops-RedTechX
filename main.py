@@ -3,41 +3,47 @@
 Q1: 
 '''
 
-# TODO: Write your code here
+for _ in range(7):
+    for j in range(i):
+        print(j)
 
 ##################################################
 '''
 Q2:
 '''
 
-# TODO: Write your code here
+for _ in range(7):
+    for j in range(i):
+        print(j + 1)
 
 ##################################################
 '''
 Q3:
 '''
 
-# TODO: Write your code here
+for i in range(9):
+    for _ in range(5):
+        print(i + 1)
 
 ##################################################
 '''
 Q4:
 '''
 
-# TODO: Write your code here
-
+for i in range(9):
+    for _ in range(i):
+        print(i + 1)
 ##################################################
 '''
 Q5:
 '''
 
-# TODO: Write your code here
-
+for i in range(5):
+    print(('-' * (5 - i)) + (f'{i * 2 + 1}' * (i * 2 + 1)))
 ##################################################
 '''
 Q6:
 '''
 
-# TODO: Write your code here
 
 ##################################################
